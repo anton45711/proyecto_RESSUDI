@@ -1,0 +1,203 @@
+table{
+	border-radius: .8;
+
+}
+body{
+    background-color: black;
+}
+#contenedor1{
+
+	overflow: hidden;
+	border-image-width: 78px;
+    background: black;
+    color:white;
+    border-radius: 8px;
+   
+
+
+    width: 50%;
+
+    margin: 0 auto;
+}
+#contenedor{
+
+	color:white;
+	border-image-width: 78px;
+}
+::placeholder{
+    color: white;
+    opacity: .9;
+
+}
+#r{
+ font-family: 'Arial';
+ font-size: 17px;
+}
+
+#a1{
+width: 99px;
+padding-left: 600px;
+}
+img{
+	padding-left: 150px;
+	width: 150px;
+}
+
+::placeholder{
+    color: white;
+}
+header{
+	width: 100%;
+	height: 138px;
+	background-color:#1a2f4b;
+	color:white; 
+	border-radius: 20px;
+
+}
+
+
+p{
+	text-align: center;
+	 font-family: 'Segoe Script';
+	 font-size: 30px;
+}
+nav{
+	width: 100%;
+	height: 32%;
+	background-color: #2f8886;
+	color:white;
+	border-radius: 7px;
+   
+}
+section{
+	width: 100%;
+	height:230%;
+	color:white;
+	background-color: #1a2f4b;
+	font-size: 18px;
+	border-radius: 7px;
+	text-align: justify;
+	
+}
+aside{
+	width: 30%px;
+	height: 220%;
+	background-color: #28475c;
+	float: right;
+	color:white ;
+
+	border-radius: 7px;
+}
+footer{
+	width: 100%;
+	height: 40px;
+	background-color: #2f8886;
+	color:white;
+	border-radius: 10px;
+}
+#btnav{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+    text-align: center;
+}
+#btnav li{
+float: left;
+margin: 3px;
+padding: 2px;
+text-align: center;
+}
+
+
+#btnav li a{
+	display: block;
+	width: 205px;
+	height: 50px;
+	padding: 5px;
+	text-decoration: none;
+	text-align: center;
+	font-size: 12px;
+	color: white;
+	background-color: #E89F00;
+	border-radius: 5px;
+	font-family: 'Century Gothic';
+	font-size:15px;
+    	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+    
+
+	
+}
+
+#nav1{
+    padding-top: 10px;
+}
+
+#btnav li a:hover{
+	color: red;
+	font-weight: bold;
+	background-color: #E8A84A;
+	font-family: 'Century Gothic';
+	font-size:15px;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+input{
+
+margin-bottom: 16px;
+padding: 7px;
+font-size: 20px;
+border-radius: 20px; 
+background:#E88B0C;
+color:#fff;
+height: 30px;
+width:25%; 
+  
+border:0;
+}
+button{
+	color: white;
+	font-weight: bold;
+	background-color: #2f8886;
+	font-family: 'Century Gothic';
+	font-size:20px;
+	border:0;
+}
+label{
+	color: white;
+}
+.Fregistro{
+	width: 95%;
+	max-width: 500px;
+	margin:auto;
+	background: black; 
+	border-radius: 19px;
+    padding-top:8px;
+ 
+}
+.Cinputs{
+	padding: 50px 60px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+    
+}
+a span{
+    font-size: 46px;
+    color: gold;
+    padding-left: 
+    
+}
+button span{
+    font-size: 40px;
+}
+button{
+    border-radius: 5px;
+}
+#imagen{
+    border-radius: 30px;
+    padding-top: 20px;
+}
